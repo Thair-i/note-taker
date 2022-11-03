@@ -24,8 +24,10 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
-Herohu link []
-Demonstration Video []
+Herohu link [https://note-taker-thair.herokuapp.com/]
+
+Demonstration Video [https://youtu.be/0DtvXHDCODA]
+
 Mock-Up
 The following images show the web application's appearance and functionality:
 
