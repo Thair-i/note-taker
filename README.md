@@ -24,5 +24,11 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
+Herohu link []
+Demonstration Video []
+Mock-Up
+The following images show the web application's appearance and functionality:
+
+![Screen Shot 2022-11-02 at 10 58 13 PM](https://user-images.githubusercontent.com/110577068/199656914-fcb34ec5-0b6d-4169-bde6-22da81fca012.png)![Screen Shot 2022-11-02 at 10 58 54 PM](https://user-images.githubusercontent.com/110577068/199656926-91c93d7f-405b-4985-aa01-4342075ba5e8.png)![Screen Shot 2022-11-02 at 10 59 07 PM](https://user-images.githubusercontent.com/110577068/199656938-b4e1b7b3-b5e8-4f65-a808-21697a7fb6d0.png)
 
 
